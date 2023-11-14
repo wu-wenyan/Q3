@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\C#練習\文彥_Q3\obj\Debug\文彥_Q3.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\C#練習\文彥_Q3\obj\Debug\文彥_Q3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\C#練習\文彥_Q3\obj\Debug\文彥_Q3.Form1.resources
+C:\Users\Admin\source\repos\C#練習\文彥_Q3\obj\Debug\文彥_Q3.Properties.Resources.resources
+C:\Users\Admin\source\repos\C#練習\文彥_Q3\obj\Debug\文彥_Q3.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\C#練習\文彥_Q3\obj\Debug\文彥_Q3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\C#練習\文彥_Q3\bin\Debug\文彥_Q3.exe.config
+C:\Users\Admin\source\repos\C#練習\文彥_Q3\bin\Debug\文彥_Q3.exe
+C:\Users\Admin\source\repos\C#練習\文彥_Q3\bin\Debug\文彥_Q3.pdb
+C:\Users\Admin\source\repos\C#練習\文彥_Q3\obj\Debug\文彥_Q3.exe
+C:\Users\Admin\source\repos\C#練習\文彥_Q3\obj\Debug\文彥_Q3.pdb
